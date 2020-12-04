@@ -1,0 +1,22 @@
+{
+    "name": "APP CHUMAN ",
+    "short_name": "CHUMAN",
+    "description": "APP CHUMAN ",
+    "lang": "pt-BR",
+    "start_url": "./",
+    "scope": "./?",
+    "display": "fullscreen",
+    "theme_color": "red",
+    "icons": [{
+            "src": "img/icon.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "white"
+}
